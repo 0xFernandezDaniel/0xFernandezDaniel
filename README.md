@@ -16,7 +16,7 @@ I'm a passionate Data Analytics Engineer with a passion for transforming data in
 
 ## 📫 Get in Touch
 - **Email:** [danfernandez2201@gmail.com](mailto:danfernandez2201@gmail.com)
-- 
+
 Feel free to check out my projects and reach out if you want to collaborate or chat about data science!
 
 <!---
