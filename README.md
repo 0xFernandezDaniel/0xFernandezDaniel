@@ -1,11 +1,11 @@
 # Hi, I'm Daniel!
 
-I'm a passionate Data Analytics Engineer with a passion for transforming data into actionable insights. I enjoy working with various tech stacks and continuously strive to enhance my skills and knowledge in the field.
+I have a passion for transforming data into actionable insights. I enjoy working with various tech stacks and continuously strive to enhance my skills and knowledge in the data science field.
 
 ## Current Focus
-- Building robust data pipelines
+- Building data pipelines
 - Exploring data architecture and cloud solutions
-- Learning more about data analytics and visualization tools
+- Learning more about data science
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, SQL
