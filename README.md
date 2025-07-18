@@ -1,7 +1,6 @@
 # Hi, I'm Daniel!
 
-I have a passion for transforming data into actionable insights. I enjoy working with various tech stacks and continuously strive to enhance my skills and knowledge in the data science field.
-
+I have a passion for transforming data into insights.
 ## Current Focus
 - Building data pipelines
 - Exploring data architecture and cloud solutions
@@ -17,7 +16,7 @@ I have a passion for transforming data into actionable insights. I enjoy working
 ## 📫 Get in Touch
 - **Email:** [danfernandez2201@gmail.com](mailto:danfernandez2201@gmail.com)
 
-Feel free to check out my projects and reach out if you want to collaborate or chat about data science!
+Feel free to check out my projects and reach out if you want to collaborate.
 
 <!---
 0xFernandezDaniel/0xFernandezDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
