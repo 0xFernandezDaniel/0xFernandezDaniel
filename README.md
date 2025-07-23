@@ -1,6 +1,6 @@
 # Hi, I'm Daniel!
 
-I have a passion for transforming data into insights.
+I have a passion for programming and automating workflows!
 ## Current Focus
 - Building data pipelines
 - Exploring data architecture and cloud solutions
