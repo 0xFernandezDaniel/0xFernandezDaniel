@@ -1,22 +1,22 @@
 # Hi, I'm Daniel!
 
-I have a passion for programming and automating workflows!
+I have a passion for programming and automating processes.
 ## Current Focus
 - Building data pipelines
 - Exploring data architecture and cloud solutions
-- Learning more about data science
+- Machine Learning
 
-## 🔧 Technologies & Tools
-- **Languages:** Python, SQL
-- **Databases:** MySQL, PostgreSQL, Amazon Redshift, SQL Server
+## Tech Stack
+- **Languages:** Python, SQL, C#, PowerShell
+- **Databases:** MySQL, SQL Server, Oracle
 - **Big Data Technologies:** Apache Airflow, Apache Spark, Kafka, Lambda, S3
-- **Cloud Platforms:** AWS, Azure
-- **Data Visualization:** Tableau, Power BI
+- **Cloud Platforms:** AWS
+- **Data Visualization:** Tableau & Power BI
 
-## 📫 Get in Touch
+## Get in Touch
 - **Email:** [danfernandez2201@gmail.com](mailto:danfernandez2201@gmail.com)
 
-Feel free to check out my projects and reach out if you want to collaborate.
+Feel free to reach out with questions on any of my repos.
 
 <!---
 0xFernandezDaniel/0xFernandezDaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
